@@ -6,5 +6,6 @@
 
 DATA Files: https://github.com/lokeshkumarbachu/EuroCup-Mini-Project/tree/main/Euro_cup
 
-Solutions:
-
+Solutions: 
+[
+](https://github.com/lokeshkumarbachu/EuroCup-Mini-Project/tree/main#:~:text=12%20minutes%20ago-,Solutions,-Initial%20commit)
